@@ -1,0 +1,13 @@
+2020-11-22 22:49:31,160 11980 Starting weather details comparision from UI and API
+2020-11-22 22:49:31,160 11980 Starting to get weather details from web url https://weather.com/
+2020-11-22 22:50:51,113 11980 {'Delhi': '15', 'Chandigarh': '14', 'Indore': '17', 'Mumbai': '28', 'Kolkata': '20', 'New York': '9', 'Texas': '24'}
+2020-11-22 22:50:51,113 11980 Going to close browser
+2020-11-22 22:50:54,461 11980 Status code for Delhi : 200
+2020-11-22 22:50:55,005 11980 Status code for Chandigarh : 200
+2020-11-22 22:50:55,320 11980 Status code for Indore : 200
+2020-11-22 22:50:55,753 11980 Status code for Mumbai : 200
+2020-11-22 22:50:56,351 11980 Status code for Kolkata : 200
+2020-11-22 22:50:56,620 11980 Status code for New York : 200
+2020-11-22 22:50:57,433 11980 Status code for Texas : 200
+2020-11-22 22:50:57,434 11980 {'Delhi': 15, 'Chandigarh': 15.69, 'Indore': 17.45, 'Mumbai': 27, 'Kolkata': 19, 'New York': 9.09, 'Texas': 20.26}
+2020-11-22 22:50:57,610 11980 result {'Delhi': True, 'Chandigarh': True, 'Indore': True, 'Mumbai': True, 'Kolkata': True, 'New York': True, 'Texas': False}
